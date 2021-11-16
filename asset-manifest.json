@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/spinesweeper/static/css/main.335c97fc.chunk.css",
-    "main.js": "/spinesweeper/static/js/main.9424bd38.chunk.js",
-    "main.js.map": "/spinesweeper/static/js/main.9424bd38.chunk.js.map",
+    "main.css": "/spinesweeper/static/css/main.38301e7c.chunk.css",
+    "main.js": "/spinesweeper/static/js/main.40b729e4.chunk.js",
+    "main.js.map": "/spinesweeper/static/js/main.40b729e4.chunk.js.map",
     "runtime-main.js": "/spinesweeper/static/js/runtime-main.6b2fd7cd.js",
     "runtime-main.js.map": "/spinesweeper/static/js/runtime-main.6b2fd7cd.js.map",
-    "static/js/2.356c9f8d.chunk.js": "/spinesweeper/static/js/2.356c9f8d.chunk.js",
-    "static/js/2.356c9f8d.chunk.js.map": "/spinesweeper/static/js/2.356c9f8d.chunk.js.map",
+    "static/js/2.a5d1a2d8.chunk.js": "/spinesweeper/static/js/2.a5d1a2d8.chunk.js",
+    "static/js/2.a5d1a2d8.chunk.js.map": "/spinesweeper/static/js/2.a5d1a2d8.chunk.js.map",
     "static/js/3.f1da0286.chunk.js": "/spinesweeper/static/js/3.f1da0286.chunk.js",
     "static/js/3.f1da0286.chunk.js.map": "/spinesweeper/static/js/3.f1da0286.chunk.js.map",
     "index.html": "/spinesweeper/index.html",
-    "static/css/main.335c97fc.chunk.css.map": "/spinesweeper/static/css/main.335c97fc.chunk.css.map",
-    "static/js/2.356c9f8d.chunk.js.LICENSE.txt": "/spinesweeper/static/js/2.356c9f8d.chunk.js.LICENSE.txt"
+    "static/css/main.38301e7c.chunk.css.map": "/spinesweeper/static/css/main.38301e7c.chunk.css.map",
+    "static/js/2.a5d1a2d8.chunk.js.LICENSE.txt": "/spinesweeper/static/js/2.a5d1a2d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6b2fd7cd.js",
-    "static/js/2.356c9f8d.chunk.js",
-    "static/css/main.335c97fc.chunk.css",
-    "static/js/main.9424bd38.chunk.js"
+    "static/js/2.a5d1a2d8.chunk.js",
+    "static/css/main.38301e7c.chunk.css",
+    "static/js/main.40b729e4.chunk.js"
   ]
 }
